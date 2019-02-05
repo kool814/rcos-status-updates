@@ -1,24 +1,26 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> This past week, I set up the project on Github and made sure we had everything correct configured (i.e. License, readme, etc.). \
+> Since this is our first semester working on the project, I made sure to completely follow the instructions online to set up \
+> the project according to the RCOS standards. \
+> I also did some research on current nlp clickbait detection methods and read (https://ieeexplore.ieee.org/document/7877426/metrics#metrics) \
+> this research paper on a deep learning method to detect clickbait titles from news sources like Huffington Post and other listicles. \
+> I also tried to look for a data set to use as training data for our project and found an open source facebook-post scraper that we \
+> could use as a standardized training set for our project.
 
 ## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
 
 > After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
 > I also plan on attending the git workshop this week.
 
+> This week I plan to continue exploring the facebook-post scraper as well as look for other sources of potential data sets. \
+> I'm also currently reviewing my teammate's, Kevin, code that creates a chrome extension with a few starter buttons that we can configure.
+
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+> Right now I don't have any blockers or any areas where I need external help.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> https://ieeexplore.ieee.org/document/7877426/metrics#metrics \
+> https://github.com/minimaxir/facebook-page-post-scraper
